@@ -12,4 +12,4 @@ Explore the database and perform mission critical analyses through SQL querying(
 ## Results
 Display result of query under each use case, for next steps to be taken with stakeholders.
 
-The powerpoint presentaion and the necessay code files are attached within.
+The powerpoint presentaion : https://docs.google.com/presentation/d/1fEClcfznv7Qfs5F4A_QqqMs72GE_EsKHf7gQGtzCrWQ/edit?usp=sharing
